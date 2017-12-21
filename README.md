@@ -1,2 +1,3 @@
 # Arctic_Blaze
-Learning as I go.
+Learning about Git for first time.
+Using this as a test try.
